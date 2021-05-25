@@ -1,0 +1,4 @@
+﻿  DeletionOfElements.cpp
+C:\Users\polma_x7zuynn\source\repos\DeletionOfElements\DeletionOfElements\DeletionOfElements.cpp(10,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\polma_x7zuynn\source\repos\DeletionOfElements\DeletionOfElements\DeletionOfElements.cpp(20,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  DeletionOfElements.vcxproj -> C:\Users\polma_x7zuynn\source\repos\DeletionOfElements\Debug\DeletionOfElements.exe
